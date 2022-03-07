@@ -5,3 +5,4 @@ print('xd')
 #dflnk
 print('1')
 print('info z gita lubi dua lipa')
+print('zpxd')
